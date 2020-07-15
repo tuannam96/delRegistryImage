@@ -1,4 +1,4 @@
-# Delete images on docker registry
+# Delete images from docker registry
 
 This is simple code using python to delete docker images from registry
 
